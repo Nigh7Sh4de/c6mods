@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects::GameDependencyData>
+    <ID>
+        <name text="Sikh_Ranjit"/>
+        <id text="0dda7a16-77ed-42c7-a74f-10d9a7a431b1"/>
+    </ID>
+    <SystemDependencies>
+      <Element>
+          <ConsumerName text="Units"/>
+          <ArtDefDependencyPaths>
+              <Element text="Units.artdef"/>
+          </ArtDefDependencyPaths>
+      </Element>
+      <Element>
+        <ConsumerName text="Civilizations"/>
+        <ArtDefDependencyPaths>
+          <Element text="Civilizations.artdef"/>
+        </ArtDefDependencyPaths>
+        <LibraryDependencies/>
+        <LoadsLibraries>false</LoadsLibraries>
+      </Element>
+      <Element>
+        <ConsumerName text="Cultures"/>
+        <ArtDefDependencyPaths>
+          <Element text="Civilizations.artdef"/>
+          <Element text="Cultures.artdef"/>
+        </ArtDefDependencyPaths>
+        <LibraryDependencies/>
+        <LoadsLibraries>false</LoadsLibraries>
+      </Element>
+      <Element>
+        <ConsumerName text="Leaders"/>
+        <ArtDefDependencyPaths>
+          <Element text="Leaders.artdef"/>
+        </ArtDefDependencyPaths>
+        <LibraryDependencies>
+          <Element text="Leader"/>
+          <Element text="LeaderLighting"/>
+        </LibraryDependencies>
+        <LoadsLibraries>true</LoadsLibraries>
+      </Element>
+      <Element>
+        <ConsumerName text="LeaderFallback"/>
+        <ArtDefDependencyPaths>
+          <Element text="FallbackLeaders.artdef"/>
+        </ArtDefDependencyPaths>
+        <LibraryDependencies>
+          <Element text="LeaderFallback"/>
+        </LibraryDependencies>
+        <LoadsLibraries>true</LoadsLibraries>
+      </Element>
+    </SystemDependencies>
+</AssetObjects::GameDependencyData>

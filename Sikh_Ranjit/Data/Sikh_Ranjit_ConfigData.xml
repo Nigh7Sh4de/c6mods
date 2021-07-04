@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameInfo>
+	<Players>
+		<Row CivilizationType="CIVILIZATION_SIKH" LeaderType="LEADER_RANJIT" CivilizationName="LOC_CIVILIZATION_SIKH_NAME" CivilizationIcon="ICON_CIVILIZATION_SIKH" LeaderName="LOC_LEADER_RANJIT_NAME" LeaderIcon="ICON_LEADER_RANJIT" CivilizationAbilityName="LOC_TRAIT_CIVILIZATION_INDUS_VALLEY_NAME" CivilizationAbilityDescription="LOC_TRAIT_CIVILIZATION_INDUS_VALLEY_DESCRIPTION" CivilizationAbilityIcon="ICON_CIVILIZATION_SIKH" LeaderAbilityName="LOC_TRAIT_LEADER_FREEDOM_OF_WORSHIP_NAME" LeaderAbilityDescription="LOC_TRAIT_LEADER_FREEDOM_OF_WORSHIP_DESCRIPTION" LeaderAbilityIcon="ICON_LEADER_RANJIT" PortraitBackground="LEADER_RANJIT_BACKGROUND"/>
+	</Players>
+	<PlayerItems>
+		<Row CivilizationType="CIVILIZATION_SIKH" LeaderType="LEADER_RANJIT" Type="UNIT_SIKH_SEPOY" Icon="ICON_UNIT_SIKH_SEPOY" Name="LOC_UNIT_SIKH_SEPOY_NAME" Description="LOC_UNIT_SIKH_SEPOY_DESCRIPTION" SortIndex="10"/>
+		<Row CivilizationType="CIVILIZATION_SIKH" LeaderType="LEADER_RANJIT" Type="BUILDING_DRAINAGE" Icon="ICON_BUILDING_DRAINAGE" Name="LOC_BUILDING_DRAINAGE_NAME" Description="LOC_BUILDING_DRAINAGE_DESCRIPTION" SortIndex="20"/>
+	</PlayerItems>
+</GameInfo>

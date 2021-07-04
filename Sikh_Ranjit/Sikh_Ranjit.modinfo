@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="0dda7a16-77ed-42c7-a74f-10d9a7a431b1" version="0.20">
+  <Properties>
+    <Name>LOC_SIKH_RANJIT_MOD_TITLE</Name>
+    <Teaser>LOC_SIKH_RANJIT_MOD_TEASER</Teaser>
+    <Description>LOC_SIKH_RANJIT_MOD_DESCRIPTION</Description>
+    <Authors>LOC_SIKH_RANJIT_MOD_AUTHORS</Authors>
+  </Properties>
+  
+  <Files>
+    <File>Sikh_Ranjit.dep</File>
+    <File>Art/Sikh_Ranjit_UnitsFlags_22.dds</File>
+    <File>Art/Sikh_Ranjit_UnitsFlags_32.dds</File>
+    <File>Art/Sikh_Ranjit_UnitsFlags_38.dds</File>
+    <File>Art/Sikh_Ranjit_UnitsFlags_50.dds</File>
+    <File>Art/Sikh_Ranjit_UnitsFlags_80.dds</File>
+    <File>Art/Sikh_Ranjit_UnitsFlags_128.dds</File>
+    <File>Art/Sikh_Ranjit_UnitsFlags_256.dds</File>
+    <File>Art/Sikh_Ranjit_Buildings32.dds</File>
+    <File>Art/Sikh_Ranjit_Buildings38.dds</File>
+    <File>Art/Sikh_Ranjit_Buildings50.dds</File>
+    <File>Art/Sikh_Ranjit_Buildings80.dds</File>
+    <File>Art/Sikh_Ranjit_Buildings128.dds</File>
+    <File>Art/Sikh_Ranjit_Buildings256.dds</File>
+    <File>Art/Sikh_Ranjit_Civ22.dds</File>
+    <File>Art/Sikh_Ranjit_Civ30.dds</File>
+    <File>Art/Sikh_Ranjit_Civ32.dds</File>
+    <File>Art/Sikh_Ranjit_Civ36.dds</File>
+    <File>Art/Sikh_Ranjit_Civ44.dds</File>
+    <File>Art/Sikh_Ranjit_Civ45.dds</File>
+    <File>Art/Sikh_Ranjit_Civ48.dds</File>
+    <File>Art/Sikh_Ranjit_Civ50.dds</File>
+    <File>Art/Sikh_Ranjit_Civ64.dds</File>
+    <File>Art/Sikh_Ranjit_Civ80.dds</File>
+    <File>Art/Sikh_Ranjit_Civ256.dds</File>
+    <File>Art/Sikh_Ranjit_Leader32.dds</File>
+    <File>Art/Sikh_Ranjit_Leader45.dds</File>
+    <File>Art/Sikh_Ranjit_Leader48.dds</File>
+    <File>Art/Sikh_Ranjit_Leader50.dds</File>
+    <File>Art/Sikh_Ranjit_Leader55.dds</File>
+    <File>Art/Sikh_Ranjit_Leader64.dds</File>
+    <File>Art/Sikh_Ranjit_Leader80.dds</File>
+    <File>Art/Sikh_Ranjit_Leader256.dds</File>
+    <File>Art/Sikh_Ranjit_Background.dds</File>
+    <File>Art/Sikh_Ranjit_Foreground.dds</File>
+    <File>Art/Sikh_Ranjit_Diplomacy.dds</File>
+    <File>Data/Sikh_Ranjit_Gameplay_Civ.xml</File>
+    <File>Data/Sikh_Ranjit_Gameplay_Traits.xml</File>
+    <File>Data/Sikh_Ranjit_ConfigData.xml</File>
+    <File>UI/Sikh_Ranjit_Icons_Buildings.xml</File>
+    <File>UI/Sikh_Ranjit_Icons_Civilizations.xml</File>
+    <File>UI/Sikh_Ranjit_Icons_Leaders.xml</File>
+    <File>UI/Sikh_Ranjit_Icons_UnitPortraits.xml</File>
+    <File>UI/Sikh_Ranjit_Icons_Units.xml</File>
+    <File>Text/en_US/Sikh_Ranjit_ConfigText.xml</File>
+    <File>Text/en_US/Sikh_Ranjit_GameplayText.xml</File>
+    <!--
+    <File>Text/Poland_Translations_ConfigText.xml</File>
+    <File>Text/Poland_Translations_Text.xml</File>
+    -->
+  </Files>
+  
+  <LocalizedText>
+		<Text id="LOC_SIKH_RANJIT_MOD_TITLE">
+			<en_US>Sikh Civilization</en_US>
+    </Text>
+		<Text id="LOC_SIKH_RANJIT_MOD_TEASER">
+			<en_US>The Sikh Empire lead by Maharaja Ranjit Singh.</en_US>
+    </Text>
+		<Text id="LOC_SIKH_RANJIT_MOD_DESCRIPTION">
+			<en_US>The Sikh Empire lead by Maharaja Ranjit Singh.</en_US>
+    </Text>
+		<Text id="LOC_SIKH_RANJIT_MOD_AUTHORS">
+			<en_US>ArcticOcean</en_US>
+    </Text>
+  </LocalizedText>
+  <Components>
+    <ImportFiles id="Sikh_Ranjit_FileImport">
+        <Items>
+            <File>Art/Sikh_Ranjit_UnitsFlags_22.dds</File>
+            <File>Art/Sikh_Ranjit_UnitsFlags_32.dds</File>
+            <File>Art/Sikh_Ranjit_UnitsFlags_38.dds</File>
+            <File>Art/Sikh_Ranjit_UnitsFlags_50.dds</File>
+            <File>Art/Sikh_Ranjit_UnitsFlags_80.dds</File>
+            <File>Art/Sikh_Ranjit_UnitsFlags_128.dds</File>
+            <File>Art/Sikh_Ranjit_UnitsFlags_256.dds</File>
+            <File>Art/Sikh_Ranjit_Buildings32.dds</File>
+            <File>Art/Sikh_Ranjit_Buildings38.dds</File>
+            <File>Art/Sikh_Ranjit_Buildings50.dds</File>
+            <File>Art/Sikh_Ranjit_Buildings80.dds</File>
+            <File>Art/Sikh_Ranjit_Buildings128.dds</File>
+            <File>Art/Sikh_Ranjit_Buildings256.dds</File>
+            <File>Art/Sikh_Ranjit_Civ22.dds</File>
+            <File>Art/Sikh_Ranjit_Civ30.dds</File>
+            <File>Art/Sikh_Ranjit_Civ32.dds</File>
+            <File>Art/Sikh_Ranjit_Civ36.dds</File>
+            <File>Art/Sikh_Ranjit_Civ44.dds</File>
+            <File>Art/Sikh_Ranjit_Civ45.dds</File>
+            <File>Art/Sikh_Ranjit_Civ48.dds</File>
+            <File>Art/Sikh_Ranjit_Civ50.dds</File>
+            <File>Art/Sikh_Ranjit_Civ64.dds</File>
+            <File>Art/Sikh_Ranjit_Civ80.dds</File>
+            <File>Art/Sikh_Ranjit_Civ256.dds</File>
+            <File>Art/Sikh_Ranjit_Leader32.dds</File>
+            <File>Art/Sikh_Ranjit_Leader45.dds</File>
+            <File>Art/Sikh_Ranjit_Leader48.dds</File>
+            <File>Art/Sikh_Ranjit_Leader50.dds</File>
+            <File>Art/Sikh_Ranjit_Leader55.dds</File>
+            <File>Art/Sikh_Ranjit_Leader64.dds</File>
+            <File>Art/Sikh_Ranjit_Leader80.dds</File>
+            <File>Art/Sikh_Ranjit_Leader256.dds</File>
+            <File>Art/Sikh_Ranjit_Background.dds</File>
+            <File>Art/Sikh_Ranjit_Foreground.dds</File>
+            <File>Art/Sikh_Ranjit_Diplomacy.dds</File>
+        </Items>
+    </ImportFiles>
+    <Icons>
+      <Items>
+        <File>UI/Sikh_Ranjit_Icons_Buildings.xml</File>
+        <File>UI/Sikh_Ranjit_Icons_Civilizations.xml</File>
+        <File>UI/Sikh_Ranjit_Icons_Leaders.xml</File>
+        <File>UI/Sikh_Ranjit_Icons_UnitPortraits.xml</File>
+        <File>UI/Sikh_Ranjit_Icons_Units.xml</File>
+      </Items>
+    </Icons>
+    <UpdateDatabase id="SIKH_RANJIT_GAMEPLAY_DATA">
+      <Items>
+        <File>Data/Sikh_Ranjit_Gameplay_Civ.xml</File>
+        <File>Data/Sikh_Ranjit_Gameplay_Traits.xml</File>
+      </Items>
+    </UpdateDatabase>
+    <!---
+    <UpdateAudio id="PolandAudio">
+      <Items>
+        <File>Platforms/Windows/Audio/DLC02Banks.ini</File>
+        <File>Platforms/Windows/Audio/DLC02_Leader_SFX.bnk</File>
+        <File>Platforms/Windows/Audio/DLC02_Leader_SFX.txt</File>
+        <File>Platforms/Windows/Audio/DLC02_Leader_SFX.xml</File>
+        <File>Platforms/Windows/Audio/DLC02_Speech.bnk</File>
+        <File>Platforms/Windows/Audio/DLC02_Speech.txt</File>
+        <File>Platforms/Windows/Audio/DLC02_Speech.xml</File>
+      </Items>
+    </UpdateAudio>
+    --->
+    <LocalizedText id="SIKH_RANJIT_GAMEPLAY_TEXT">
+      <Items>
+        <File>Text/en_US/Sikh_Ranjit_ConfigText.xml</File>
+        <File>Text/en_US/Sikh_Ranjit_GameplayText.xml</File>
+        <!--
+        <File>Text/Poland_Translations_ConfigText.xml</File>
+        <File>Text/Poland_Translations_Text.xml</File>
+        -->
+      </Items>
+    </LocalizedText>
+    <ModArt id="SIKH_RANJIT_MODART">
+      <Items>
+        <File>Sikh_Ranjit.dep</File>
+      </Items>
+    </ModArt>
+  </Components>
+  <Settings>
+    <Icons id="SIKH_RANJIT_ICON_SETTINGS">
+      <Items>
+        <File>UI/Sikh_Ranjit_Icons_Buildings.xml</File>
+        <File>UI/Sikh_Ranjit_Icons_Civilizations.xml</File>
+        <File>UI/Sikh_Ranjit_Icons_Leaders.xml</File>
+        <File>UI/Sikh_Ranjit_Icons_Units.xml</File>
+      </Items>
+    </Icons>
+    <Custom id="SIKH_RANJIT_CONFIG_DATA">
+      <Items>
+        <File>Data/Sikh_Ranjit_ConfigData.xml</File>
+      </Items>
+    </Custom>
+    <LocalizedText id="SIKH_RANJIT_CONFIG_TEXT">
+      <Items>
+        <File>Text/en_US/Sikh_Ranjit_ConfigText.xml</File>
+        <!--
+        <File>Text/Poland_Translations_ConfigText.xml</File>
+        -->
+      </Items>
+    </LocalizedText>
+  </Settings>
+</Mod>

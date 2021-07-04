@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_CIVILIZATION_SIKH_NAME">
+			<Text>Sikh Empire</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_RANJIT_NAME">
+			<Text>Ranjit Singh</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_INDUS_VALLEY_NAME">
+			<Text>Indus Valley</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_INDUS_VALLEY_DESCRIPTION">
+			<Text>+50% [ICON_Production] Production towards districts if placed next to a River. Floodplains do not block placement of encapements, commercial hubs and entertainment complexes.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FREEDOM_OF_WORSHIP_NAME">
+			<Text>Freedem of Worship</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FREEDOM_OF_WORSHIP_DESCRIPTION">
+			<Text>Receives Follower Belief bonuses in a city from each Religion that has at least 1 follower.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FREEDEM_OF_WORSHIP_ALT_DESCRIPTION">
+			<Text>Receives Follower Belief bonuses in a city from each Religion that has at least 1 follower.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_DRAINAGE_NAME">
+			<Text>Drainage</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_DRAINAGE_DESCRIPTION">
+			<Text>A building unique to the Sikh Empire. Gain +3 [ICON_Food] Food and +4 [ICON_Housing] Housing. Replaces the Granary.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SIKH_SEPOY_NAME">
+			<Text>Sikh Sepoy</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SIKH_SEPOY_DESCRIPTION">
+			<Text>Sikh unique Indutrial era infantery unit. Gains [ICON_Faith] faith from defeated enemies. Has a low maintenance cost.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

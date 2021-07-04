@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_SIKH_RANJIT_NAME">
+			<Text>Sikh unique unit: Sikh Sepoy</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SIKH_DESCRIPTION">
+			<Text>Sikh Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SIKH_ADJECTIVE">
+			<Text>Sikh</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BUILDING_DREINAGE_NAME">
+			<Text>Sikh unique building: Dreinage</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_LION_OF_PUNJAB_NAME">
+			<Text>Lion of Punjab</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_LION_OF_PUNJAB_DESCRIPTION">
+			<Text>Respects civilizations with a strong [ICON_Gold] Economy. Dislikes civilizations with nearby cities.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_DRAINAGE_CHAPTER_HISTORY_PARA_1">
+			<Text>The ancient Indus Valley Civilisation of South Asia, including current day Pakistan and Northwest India, was prominent in hydraulik engineering, and had many water supply and sanitation devices that were the first of their kind. Among other things, they contain the world's earliest known system of flush toilets. With a number of courtyard houses having both a washing platform and a dedicated toilet / waste disposal hole. The toilet holes would be flushed by emptying a jar of water, drwan from the house's central well, through a clay brick pipe and into a shared brick drain, that would feed into an adjacent soakpit (cesspit). The soakpits would be periodically emtied of their solid matter, possibly to be used as fertiliser. Most houses also had private wells. City walls functioned as a barrier against floods. The urban areas of the Indus Valley civilization provided public and private baths, sewage was disposed through underground drains built with precisely laid bricks, and a sophisticated water management system with numerous reservoirs was established. In the drainage systems, drains from houses were connected to wider public drains.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SIKH_CHAPTER_HISTORY_PARA_1">
+			<Text>The Sikh Empire (also Sikh Khalsa Raj, Sarkar-i-Khalsa or Punjab Empire), was a major power that originated on the Indian Subcontinent, which arose under the leadership of Maharaja Ranjit Singh who established a secular empire basing it around the Punjab. The empire existed from 1799, when Ranjit Singh captured Lahore, to 1849 and was forged on the foundations of the Khalsa from a collection of autonomous Sikh misls. At its peak in the 19th century, the Empire extended from the Khyber Pass in the west to western Tibet in the east, and from Mithankot in the south to Kashmir in the north. It was the last major region of the subcontinent to be conquered by the British.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SIKH_CHAPTER_HISTORY_PARA_2">
+     <!-- TODO: Add historic text. -->
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SIKH_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SIKH_CHAPTER_HISTORY_PARA_4">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SIKH_CHAPTER_HISTORY_PARA_5">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SIKH_CHAPTER_HISTORY_PARA_6">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SIKH_CHAPTER_HISTORY_PARA_7">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SIKH_CHAPTER_HISTORY_PARA_8">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SIKH_CHAPTER_HISTORY_PARA_9">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SIKH_CHAPTER_HISTORY_PARA_10">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SIKH_CHAPTER_HISTORY_PARA_11">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SIKH_CHAPTER_HISTORY_PARA_12">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SIKH_CHAPTER_HISTORY_PARA_13">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SIKH_CHAPTER_HISTORY_PARA_14">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SIKH_CHAPTER_HISTORY_PARA_15">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RANJIT_TITLE">
+			<Text>Ranjit Singh</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RANJIT_SUBTITLE">
+			<Text>Maharaja Ranjit Singh - the Lion of Punjab</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RANJIT_QUOTE">
+    <!-- TODO: Find a real quote. -->
+			<Text>If you can't see God in All, You can't see God at All.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RANJIT_CHAPTER_HISTORY_PARA_1">
+			<Text>Maharaja Ranjit Singh (November 13 1780 - 27 June 1839), was the founder of the Sikh Empire, which came to power in the northwest of the Indian subcontinent in the early half of the 19th century. He survived smallpox in infancy but lost sight in his left eye. He fought his first battle alongside his father at age 10. After his father died, he fought several wars to expel the Afghans in his teenage years, and was proclaimed as the "Maharaja of Punjab" at age 21. His empire grew in the Punjab region under his leadership through 1839.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RANJIT_CHAPTER_HISTORY_PARA_2">
+      <!-- TODO: Continue historic leader text. -->
+			<Text>Prior to his rise, the Punjab region had numerous warring misls (confederacies), twelve of which were under Sikh rulers and one Muslim. Ranjit Singh successfully absorbed and united the Sikh misls and took over other local kingdoms to create the Sikh Empire. He repeatedly defeated invasions by Muslim armies, particularly those arriving from Afghanistan, and established friendly relations with the British.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RANJIT_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RANJIT_CHAPTER_HISTORY_PARA_4">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RANJIT_CHAPTER_HISTORY_PARA_5">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RANJIT_CHAPTER_HISTORY_PARA_6">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RANJIT_CHAPTER_HISTORY_PARA_7">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RANJIT_CHAPTER_HISTORY_PARA_8">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RANJIT_CHAPTER_HISTORY_PARA_9">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SIKH_SEPOY_CHAPTER_HISTORY_PARA_1">
+			<Text>A sepoy was formerly the designation given to an Indian soldier. In the modern Nepalese Army, Indian Army, Pakistan Army and Bangladesh Army it remains in use for the rank of private soldier. The term sepoy came into use in the forces of the British East India Company in the eighteenth century, where it was one of many, such as peons, gentoos, mestees and topasses used for various categories of native soldier. Initially it referred to Hindu or Muslim soldiers without regular uniform or discipline. It later generically referred to all native soldiers in the service of the European powers in India. Close to ninety-six percent of the British East India Company's army of 300,000 men were native to India and these sepoys played a crucial role in securing the subcontinent for the company.</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SIKH_LOCATION">
+			<Text>Asia</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SIKH_SIZE">
+			<Text>Est. 190 thousand square miles (491 thousand square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SIKH_POPULATION">
+			<Text>3 million in 1849. 182 million in modern Pakistan.</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SIKH_CAPITAL">
+			<Text>Lahore</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LAHORE">
+			<Text>Lahore</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KARACHI">
+			<Text>Karachi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FEISALABAD">
+			<Text>Feisalabad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RAWALPINDI">
+			<Text>Rawalpindi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MULTAN">
+			<Text>Multan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HARAPPA">
+			<Text>Harappa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MOHENJO_DARO_SIKH">
+			<Text>Mohenjo-Daro</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LOTHAL">
+			<Text>Lothal</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KALIBANGAN">
+			<Text>Kalibangan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RAKHIGARHI">
+			<Text>Rakhigari</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HYDERABAD_SIKH">
+			<Text>Hyderabad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GUJRANWALA">
+			<Text>Gujranwala</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PESHAWAR">
+			<Text>Peshawar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_QUETTA">
+			<Text>Quetta</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ISLAMABAD">
+			<Text>Islamabad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DHOLAVIRA">
+			<Text>Dholavira</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BANAWILA">
+			<Text>Banawila</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHANHUDARO">
+			<Text>Chanhudaro</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GANWERIWAL">
+			<Text>Ganweriwal</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RUPNAGAR">
+			<Text>Rupnagar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SARGODHA">
+			<Text>Sargodha</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SIALKOT">
+			<Text>Sialkot</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BAHAWALPUR">
+			<Text>Bahawalpur</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUKKUR">
+			<Text>Sukkur</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JHANG">
+			<Text>Jhang</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SHEKHUPURA">
+			<Text>Shekhupura</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MARDAN">
+			<Text>Mardan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GUJRAT">
+			<Text>Gujrat</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LARKANA">
+			<Text>Larkana</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KASUR">
+			<Text>Kasur</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_MALE_1">
+			<Text>Ranjit</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_MALE_2">
+			<Text>Kharak</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_MALE_3">
+			<Text>Nau Nihal</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_MALE_4">
+			<Text>Chand</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_MALE_5">
+			<Text>Sher</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_MALE_6">
+			<Text>Duleep</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_MALE_7">
+			<Text>Jamadar</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_MALE_8">
+			<Text>Dhian</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_MALE_9">
+			<Text>Hira</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_MALE_10">
+			<Text>Jawahar</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_FEMALE_1">
+			<Text>Adya</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_FEMALE_2">
+			<Text>Diya</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_FEMALE_3">
+			<Text>Har</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_FEMALE_4">
+			<Text>Kavya</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_FEMALE_5">
+			<Text>Mahi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_FEMALE_6">
+			<Text>Neha</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_FEMALE_7">
+			<Text>Pal</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_FEMALE_8">
+			<Text>Ria</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_FEMALE_9">
+			<Text>Sai</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_FEMALE_10">
+			<Text>Tanvi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_MODERN_MALE_1">
+			<Text>Adnan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_MODERN_MALE_2">
+			<Text>Bilal</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_MODERN_MALE_3">
+			<Text>Hamza</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_MODERN_MALE_4">
+			<Text>Mohammad</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_MODERN_MALE_5">
+			<Text>Naeem</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_MODERN_MALE_6">
+			<Text>Salman</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_MODERN_MALE_7">
+			<Text>Tariq</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_MODERN_MALE_8">
+			<Text>Usman</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_MODERN_MALE_9">
+			<Text>Waqas</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_MODERN_MALE_10">
+			<Text>Zahid</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_MODERN_FEMALE_1">
+			<Text>Anam</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_MODERN_FEMALE_2">
+			<Text>Ayesha</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_MODERN_FEMALE_3">
+			<Text>Faiza</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_MODERN_FEMALE_4">
+			<Text>Karen</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_MODERN_FEMALE_5">
+			<Text>Mahnoor</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_MODERN_FEMALE_6">
+			<Text>Mariam</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_MODERN_FEMALE_7">
+			<Text>Mishael</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_MODERN_FEMALE_8">
+			<Text>Niya</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_MODERN_FEMALE_9">
+			<Text>Noor</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SIKH_MODERN_FEMALE_10">
+			<Text>Zainab</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_JADWIGA">
+			<Text>Maharaja Ranjit Singh, above is the sky of the mind, and beyond this sky is the Lord. You will lead your people to unite the region as one Sikh Empire. Building up on the ancient civilizations around the Indus Valley you will establish cultural and spiritual values and protect your blooming cities against enemy invasions.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_RANJIT_ANY">
+			<Text>We are pleased to accept your friendship. Let us prais the Lord together.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_RANJIT_ANY">
+			<Text>We can't accept your offer at this time.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_RANJIT_ANY">
+			<Text>You are a worthwhile leader. Will you accept friendship?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_RANJIT_ANY">
+			<Text>Wonderful.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_RANJIT_ANY">
+			<Text>May the Lord forgive you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_RANJIT_ANY">
+			<Text>You will have to face the consequences. The greedy person will wander through reincanation over and over again.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_RANJIT_ANY">
+			<Text>We can't let you misled the people any further.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_RANJIT_ANY">
+			<Text>We will display your gifts proudly in our throne room.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_RANJIT_ANY">
+			<Text>We love the company of gracious people. You won't fit here.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_RANJIT_ANY">
+			<Text>Our delegation will present you some fine bronze art we found in the valley.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_RANJIT_ANY">
+			<Text>The world is a drama, staged in a dream.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_RANJIT_ANY">
+			<Text>The impurity of the mind is greed, and the impurity of the tongue is falsehood. (Denounces You).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_RANJIT_ANY">
+			<Text>I am Maharaja Ranjit Singh. They call me the Lion of Punjab.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_RANJIT_ANY">
+			<Text>We like to invite you to be our guest. We do have festivities for anyone in our cities.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_RANJIT_ANY">
+			<Text>We like to accept your proposal.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_RANJIT_ANY">
+			<Text>You would like to tell you the history of our capital. Will you share yours?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_RANJIT_ANY">
+			<Text>All hail!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_RANJIT_ANY">
+			<Text>You do good for the world.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_RANJIT_REASON_ANY">
+			<Text>(You have a strong [ICON_Gold] Economy)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_RANJIT_ANY">
+			<Text>The one acting in egoism, selfishness and conceit wastes his life.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_RANJIT_REASON_ANY">
+			<Text>(You rule nearby cities.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_RANJIT_ANY">
+			<Text>Would you like to form an alliance?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_RANJIT_ANY">
+			<Text>When the Giver of peace grants His Grace, the mortal being meditates on the Lord, the Life of the Universe.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_RANJIT_ANY">
+			<Text>No thanks.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_RANJIT_ANY">
+			<Text>Let us stop this mindless war. The Lord will help us to accept our differences.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_RANJIT_ANY">
+			<Text>Your people are welcome in our scenery.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_RANJIT_ANY">
+			<Text>We have to defend our borders from untrustworthy invaders.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_RANJIT_ANY">
+			<Text>Our people must see the world to become wise one day. Will you open your borders?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_RANJIT_ANY">
+			<Text>You talk about peace but all I see is weaponry. You should lay down those arms.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_RANJIT_ANY">
+			<Text> Birth and death are subject to the Command of the Lord's Will. Through His Will we come and go.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_RANJIT_ANY">
+			<Text>What a shame.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_RANJIT_ANY">
+			<Text>Thank you very much.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_LION_OF_PUNJAB_HIGH_INCOME">
+			<Text>Ranjit is pleased that you have a strong economy</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_LION_OF_PUNJAB_NEIGHBORHOOD">
+			<Text>Ranjit dislikes that you rule nearby cities</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

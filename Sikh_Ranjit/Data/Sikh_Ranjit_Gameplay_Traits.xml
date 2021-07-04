@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameInfo>
+	<Types>
+		<Row Type="BUILDING_DRAINAGE" Kind="KIND_BUILDING"/>
+		<Row Type="UNIT_SIKH_SEPOY" Kind="KIND_UNIT"/>
+		<Row Type="TRAIT_AGENDA_LION_OF_PUNJAB" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_CIVILIZATION_BUILDING_DRAINAGE" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_CIVILIZATION_UNIT_SIKH_SEPOY" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_LEADER_FREEDOM_OF_WORSHIP" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_CIVILIZATION_INDUS_VALLEY" Kind="KIND_TRAIT"/>
+	</Types>
+
+  
+  <CivilizationTraits>
+		<Row CivilizationType="CIVILIZATION_SIKH" TraitType="TRAIT_CIVILIZATION_BUILDING_DRAINAGE"/>
+		<Row CivilizationType="CIVILIZATION_SIKH" TraitType="TRAIT_CIVILIZATION_INDUS_VALLEY"/>
+		<Row CivilizationType="CIVILIZATION_SIKH" TraitType="TRAIT_CIVILIZATION_UNIT_SIKH_SEPOY"/>
+	</CivilizationTraits>
+  <LeaderTraits>
+		<Row LeaderType="LEADER_RANJIT" TraitType="TRAIT_LEADER_CULTURAL_MAJOR_CIV"/>
+		<Row LeaderType="LEADER_RANJIT" TraitType="TRAIT_LEADER_FREEDOM_OF_WORSHIP"/>
+	</LeaderTraits>
+	<Traits>
+		<Row TraitType="TRAIT_AGENDA_LION_OF_PUNJAB" Name="LOC_PLACEHOLDER" Description="LOC_PLACEHOLDER"/>
+		<Row TraitType="TRAIT_CIVILIZATION_BUILDING_DRAINAGE" Name="LOC_BUILDING_DRAINAGE_NAME" Description="LOC_BUILDING_DRAINAGE_DESCRIPTION"/>
+		<Row TraitType="TRAIT_CIVILIZATION_UNIT_SIKH_SEPOY" Name="LOC_UNIT_SIKH_SEPOY_NAME" Description="LOC_UNIT_SIKH_SEPOY_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_FREEDOM_OF_WORSHIP" Name="LOC_TRAIT_LEADER_FREEDOM_OF_WORSHIP_NAME" Description="LOC_TRAIT_LEADER_FREEDOM_OF_WORSHIP_DESCRIPTION"/>
+		<Row TraitType="TRAIT_CIVILIZATION_INDUS_VALLEY" Name="LOC_TRAIT_CIVILIZATION_INDUS_VALLEY_NAME" Description="LOC_TRAIT_CIVILIZATION_INDUS_VALLEY_DESCRIPTION"/>
+	</Traits>
+  
+	<Buildings>
+		<Row BuildingType="BUILDING_DRAINAGE" Name="LOC_BUILDING_DRAINAGE_NAME" Description="LOC_BUILDING_DRAINAGE_DESCRIPTION" PrereqTech="TECH_POTTERY"  PrereqDistrict="DISTRICT_CITY_CENTER" PurchaseYield="YIELD_GOLD" Cost="65" AdvisorType="ADVISOR_GENERIC" Housing="4" TraitType="TRAIT_CIVILIZATION_BUILDING_DRAINAGE"/>
+	</Buildings>
+	<BuildingReplaces>
+		<Row CivUniqueBuildingType="BUILDING_DRAINAGE" ReplacesBuildingType="BUILDING_GRANARY"/>
+	</BuildingReplaces>
+	<Building_YieldChanges>
+		<Row BuildingType="BUILDING_DRAINAGE" YieldType="YIELD_FOOD" YieldChange="3"/>
+	</Building_YieldChanges>
+  
+	<Units>
+		<Row UnitType="UNIT_SIKH_SEPOY" BaseMoves="2" Cost="330" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="2" ZoneOfControl="true" Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_LAND_COMBAT" Name="LOC_UNIT_SIKH_SEPOY_NAME" Description="LOC_UNIT_SIKH_SEPOY_DESCRIPTION" PurchaseYield="YIELD_GOLD" PromotionClass="PROMOTION_CLASS_MELEE" Maintenance="2" Combat="65" TraitType="TRAIT_CIVILIZATION_UNIT_SIKH_SEPOY" PrereqTech="TECH_RIFLING"  MandatoryObsoleteTech="TECH_SATELLITES"/>
+    <!-- StrategicResource="RESOURCE_NITER" -->
+	</Units> 
+	<UnitUpgrades>
+		<Row Unit="UNIT_SIKH_SEPOY" UpgradeUnit="UNIT_MECHANIZED_INFANTRY"/>
+	</UnitUpgrades>
+	<UnitAiInfos>
+		<Row UnitType="UNIT_SIKH_SEPOY" AiType="UNITAI_COMBAT"/>
+		<Row UnitType="UNIT_SIKH_SEPOY" AiType="UNITAI_EXPLORE"/>
+		<Row UnitType="UNIT_SIKH_SEPOY" AiType="UNITTYPE_MELEE"/>
+		<Row UnitType="UNIT_SIKH_SEPOY" AiType="UNITTYPE_LAND_COMBAT"/>
+	</UnitAiInfos>
+	<TypeTags>
+		<Row Type="UNIT_SIKH_SEPOY" Tag="CLASS_MELEE"/>
+		<Row Type="UNIT_SIKH_SEPOY" Tag="CLASS_SIKH_SEPOY"/>
+    <Row Type="ABILITY_SIKH_SEPOY" Tag="CLASS_SIKH_SEPOY"/>
+	</TypeTags>
+  <Tags>
+    <Row Tag="CLASS_SIKH_SEPOY" Vocabulary="ABILITY_CLASS"/>
+  </Tags>
+  <Types>
+     <Row Type="ABILITY_SIKH_SEPOY" Kind="KIND_ABILITY"/>
+  </Types>
+  <UnitAbilities>
+    <Row UnitAbilityType="ABILITY_SIKH_SEPOY" Name="LOC_ABILITY_SIKH_SEPOY_NAME" Description="LOC_ABILITY_SIKH_SEPOY_DESCRIPTION"/>
+  </UnitAbilities>
+  <UnitAbilityModifiers>
+    <Row UnitAbilityType="ABILITY_SIKH_SEPOY" ModifierId="SIKH_SEPOY_POST_COMBAT_FAITH" />
+  </UnitAbilityModifiers>
+  <Modifiers>
+    <Row ModifierId="SIKH_SEPOY_POST_COMBAT_FAITH" ModifierType="MODIFIER_UNIT_ADJUST_POST_COMBAT_YIELD" />
+  </Modifiers>
+	<ModifierArguments>
+    <Row ModifierId="SIKH_SEPOY_POST_COMBAT_FAITH" Name="PercentDefeatedStrength" Value="50" />
+    <Row ModifierId="SIKH_SEPOY_POST_COMBAT_FAITH" Name="YieldType" Value="YIELD_FAITH" />
+  </ModifierArguments>
+  
+	<Agendas>
+		<Row AgendaType="AGENDA_LION_OF_PUNJAB" Name="LOC_AGENDA_LION_OF_PUNJAB_NAME" Description="LOC_AGENDA_LION_OF_PUNJAB_DESCRIPTION"/>
+	</Agendas>
+	<HistoricalAgendas>
+		<Row LeaderType="LEADER_RANJIT" AgendaType="AGENDA_LION_OF_PUNJAB"/>
+	</HistoricalAgendas>
+	<AgendaTraits>
+		<Row AgendaType="AGENDA_LION_OF_PUNJAB" TraitType="TRAIT_AGENDA_LION_OF_PUNJAB"/>
+	</AgendaTraits>
+	<ExclusiveAgendas>
+		<Row AgendaOne="AGENDA_LION_OF_PUNJAB" AgendaTwo="AGENDA_NUKE_LOVER"/>
+	</ExclusiveAgendas>
+	<AiLists>
+		<Row ListType="MoneyGrubberGoldPreference" AgendaType="TRAIT_AGENDA_LION_OF_PUNJAB" System="Yields"/>
+	</AiLists>
+	<TraitModifiers>
+		<Row TraitType="TRAIT_AGENDA_LION_OF_PUNJAB" ModifierId="AGENDA_LION_OF_PUNJAB_HIGH_INCOME"/>
+		<Row TraitType="TRAIT_AGENDA_LION_OF_PUNJAB" ModifierId="AGENDA_LION_OF_PUNJAB_NEIGHBORHOOD"/>
+    <Row TraitType="TRAIT_LEADER_FREEDOM_OF_WORSHIP" ModifierId="TRAIT_GAINS_ALL_FOLLOWER_BELIEFS"/>
+    <Row TraitType="TRAIT_CIVILIZATION_INDUS_VALLEY" ModifierId="TRAIT_INDUS_RIVER_FASTER_BUILDTIME" />
+    <Row TraitType="TRAIT_CIVILIZATION_INDUS_VALLEY" ModifierId="TRAIT_FLOODPLAINS_VALID_ENCAMPMENT" />
+    <Row TraitType="TRAIT_CIVILIZATION_INDUS_VALLEY" ModifierId="TRAIT_FLOODPLAINS_VALID_COMMERCIAL_HUB" />
+    <Row TraitType="TRAIT_CIVILIZATION_INDUS_VALLEY" ModifierId="TRAIT_FLOODPLAINS_VALID_ENTERTAINMENT_COMPLEX" />
+	</TraitModifiers>
+	<Modifiers>
+    <Row ModifierId="AGENDA_LION_OF_PUNJAB_HIGH_INCOME" ModifierType="MODIFIER_PLAYER_DIPLOMACY_SIMPLE_MODIFIER" SubjectRequirementSetId="PLAYER_HAS_HIGH_INCOME" />
+    <Row ModifierId="AGENDA_LION_OF_PUNJAB_NEIGHBORHOOD" ModifierType="MODIFIER_PLAYER_DIPLOMACY_SIMPLE_MODIFIER" OwnerRequirementSetId="ON_TURN_STARTED" SubjectRequirementSetId="PLAYER_IS_MAJOR_CIV_KNOWN_10_TURNS" />
+    <!-- Code already in core.
+    <Row ModifierId="TRAIT_GAINS_ALL_FOLLOWER_BELIEFS" ModifierType="MODIFIER_PLAYER_GAINS_ALL_FOLLOWER_BELIEFS" />
+    -->
+    <Row ModifierId="TRAIT_INDUS_RIVER_FASTER_BUILDTIME_DISTRICT" ModifierType="MODIFIER_PLAYER_CITIES_ADJUST_RIVER_DISTRICT_PRODUCTION" />
+  </Modifiers>
+	<ModifierArguments>
+    <Row ModifierId="AGENDA_LION_OF_PUNJAB_HIGH_INCOME" Name="InitialValue" Value="8" />
+    <Row ModifierId="AGENDA_LION_OF_PUNJAB_HIGH_INCOME" Name="StatementKey" Value="LOC_DIPLO_KUDO_LEADER_RANJIT_REASON_ANY" />
+    <Row ModifierId="AGENDA_LION_OF_PUNJAB_HIGH_INCOME" Name="SimpleModifierDescription" Value="LOC_DIPLO_MODIFIER_LION_OF_PUNJAB_HIGH_INCOME" />
+    <Row ModifierId="AGENDA_LION_OF_PUNJAB_NEIGHBORHOOD" Name="InitialValue" Value="-8" />
+    <Row ModifierId="AGENDA_LION_OF_PUNJAB_NEIGHBORHOOD" Name="StatementKey" Value="LOC_DIPLO_KUDO_WARNING_RANJIT_REASON_ANY" />
+    <Row ModifierId="AGENDA_LION_OF_PUNJAB_NEIGHBORHOOD" Name="SimpleModifierDescription" Value="LOC_DIPLO_MODIFIER_LION_OF_PUNJAB_NEIGHBORHOOD" />
+    <Row ModifierId="TRAIT_INDUS_RIVER_FASTER_BUILDTIME_DISTRICT" Name="Amount" Value="50" />
+	</ModifierArguments>
+	<ModifierStrings>
+		<Row ModifierId="AGENDA_LION_OF_PUNJAB_HIGH_INCOME" Context="Sample" Text="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ALL"/>
+		<Row ModifierId="AGENDA_LION_OF_PUNJAB_NEIGHBORHOOD" Context="Sample" Text="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ALL"/>
+	</ModifierStrings>
+  
+
+
+  
+  <FavoredReligions>
+		<Row LeaderType="LEADER_RANJIT" ReligionType="RELIGION_SIKHISM"/>
+	</FavoredReligions>
+  
+	<StartBiasFeatures>
+		<Row CivilizationType="CIVILIZATION_SIKH" FeatureType="FEATURE_FLOODPLAINS" Tier="2"/>
+	</StartBiasFeatures>
+	<StartBiasTerrains>
+		<Row CivilizationType="CIVILIZATION_SIKH" TerrainType="TERRAIN_PLAINS" Tier="2"/>
+	</StartBiasTerrains>
+	<StartBiasRivers>
+		<Row CivilizationType="CIVILIZATION_SIKH" Tier="5"/>
+	</StartBiasRivers>
+  
+</GameInfo>

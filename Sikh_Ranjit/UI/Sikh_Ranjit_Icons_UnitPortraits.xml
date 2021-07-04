@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameInfo>
+   <!-- TODO: Customize icons. -->
+
+	<IconDefinitions>
+    <!--
+		<Row Name="ICON_UNIT_SIKH_SEPOY" Atlas="ICON_ATLAS_UNITS" Index="53"/>
+    -->
+        <Row Name="ICON_UNIT_SIKH_SEPOY_PORTRAIT" Atlas="ICON_ATLAS_UNIT_PORTRAITS" Index="62"/>
+	</IconDefinitions>
+</GameInfo>

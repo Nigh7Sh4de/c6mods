@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameInfo>
+  <IconTextureAtlases>
+    <Row Name="ICON_ATLAS_RANJIT" IconSize="32"  IconsPerRow="1" IconsPerColumn="1" Filename="Sikh_Ranjit_Leader32.dds"/>
+    <Row Name="ICON_ATLAS_RANJIT" IconSize="45"  IconsPerRow="1" IconsPerColumn="1" Filename="Sikh_Ranjit_Leader45.dds"/>
+    <Row Name="ICON_ATLAS_RANJIT" IconSize="48"  IconsPerRow="1" IconsPerColumn="1" Filename="Sikh_Ranjit_Leader48.dds"/>
+    <Row Name="ICON_ATLAS_RANJIT" IconSize="50"  IconsPerRow="1" IconsPerColumn="1" Filename="Sikh_Ranjit_Leader50.dds"/>
+    <Row Name="ICON_ATLAS_RANJIT" IconSize="55"  IconsPerRow="1" IconsPerColumn="1" Filename="Sikh_Ranjit_Leader55.dds"/>
+    <Row Name="ICON_ATLAS_RANJIT" IconSize="64"  IconsPerRow="1" IconsPerColumn="1" Filename="Sikh_Ranjit_Leader64.dds"/>
+    <Row Name="ICON_ATLAS_RANJIT" IconSize="80"  IconsPerRow="1" IconsPerColumn="1" Filename="Sikh_Ranjit_Leader80.dds"/>
+    <Row Name="ICON_ATLAS_RANJIT" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="Sikh_Ranjit_Leader256.dds"/>
+  </IconTextureAtlases>
+  
+  <IconDefinitions>
+    <Row Name="ICON_LEADER_RANJIT"      Atlas="ICON_ATLAS_RANJIT" Index="0"/>
+  </IconDefinitions>
+</GameInfo>
